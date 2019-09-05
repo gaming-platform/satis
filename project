@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+
+help() {
+    echo
+    echo ------------------
+    echo Available commands
+    echo ------------------
+    echo update
+    echo Update satis.
+    echo
+}
+
+update() {
+    composer install
+    vendor/bin/satis build satis.json satis
+    cp README.md satis
+    cd satis
+    rm -rf .git
+    git init
+    git add .
+    git commit -m "Initial commit"
+    git remote add origin git@github.com:gaming-platform/satis.git
+    git push --force origin master:gh-pages
+}
+
+if [ "$*" = "" ]
+then
+    help
+else
+    $*
+fi

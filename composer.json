@@ -1,0 +1,14 @@
+{
+  "name": "gaming-platform/satis",
+  "description": "Satis for the gaming platform.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Markus Reinhold",
+      "email": "markusreinhold@icloud.com"
+    }
+  ],
+  "require": {
+    "composer/satis": "^1.0"
+  }
+}

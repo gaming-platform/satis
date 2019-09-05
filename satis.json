@@ -1,0 +1,8 @@
+{
+    "name": "gaming-platform/satis",
+    "homepage": "https://gaming-platform.github.io/satis/",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/gaming-platform/api" }
+    ],
+    "require-all": true
+}

@@ -1,0 +1,457 @@
+{
+    "packages": {
+        "gaming-platform/api": {
+            "v1.0.0": {
+                "name": "gaming-platform/api",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "a148f042f46148c81a72dc2272d0bd5f4879deb3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/a148f042f46148c81a72dc2272d0bd5f4879deb3",
+                    "reference": "a148f042f46148c81a72dc2272d0bd5f4879deb3",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2024-01-07T13:34:15+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.0.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            },
+            "v1.1.0": {
+                "name": "gaming-platform/api",
+                "version": "v1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "031c68801c63dad14a99f07a76156c9a0a486352"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/031c68801c63dad14a99f07a76156c9a0a486352",
+                    "reference": "031c68801c63dad14a99f07a76156c9a0a486352",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2024-01-10T11:46:19+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.1.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            },
+            "v1.2.0": {
+                "name": "gaming-platform/api",
+                "version": "v1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "d9e2c30657599e5c10912964fe2bb91518c14e39"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/d9e2c30657599e5c10912964fe2bb91518c14e39",
+                    "reference": "d9e2c30657599e5c10912964fe2bb91518c14e39",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2024-07-09T20:56:23+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.2.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            },
+            "v1.3.0": {
+                "name": "gaming-platform/api",
+                "version": "v1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "f7643a99ab9b0fd54a77a92583d6f53d7102ebd1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/f7643a99ab9b0fd54a77a92583d6f53d7102ebd1",
+                    "reference": "f7643a99ab9b0fd54a77a92583d6f53d7102ebd1",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2025-11-26T18:50:25+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.3.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            },
+            "v1.4.0": {
+                "name": "gaming-platform/api",
+                "version": "v1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "10b82e3be84f7f9b9981d1827d7bb297bced4713"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/10b82e3be84f7f9b9981d1827d7bb297bced4713",
+                    "reference": "10b82e3be84f7f9b9981d1827d7bb297bced4713",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2025-12-02T22:02:19+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.4.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            },
+            "v1.5.0": {
+                "name": "gaming-platform/api",
+                "version": "v1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "d752500f7c01a6a9479c4abf345c0584ebe93110"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/d752500f7c01a6a9479c4abf345c0584ebe93110",
+                    "reference": "d752500f7c01a6a9479c4abf345c0584ebe93110",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2025-12-07T22:40:28+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.5.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            },
+            "v1.6.0": {
+                "name": "gaming-platform/api",
+                "version": "v1.6.0",
+                "version_normalized": "1.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "a092ca2cd93528c4ecf77fd4f8829ef7eb827c47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/a092ca2cd93528c4ecf77fd4f8829ef7eb827c47",
+                    "reference": "a092ca2cd93528c4ecf77fd4f8829ef7eb827c47",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2025-12-09T18:28:15+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.6.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            },
+            "v1.7.0": {
+                "name": "gaming-platform/api",
+                "version": "v1.7.0",
+                "version_normalized": "1.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "a8bfcb8a31cd50d932f0a33c9872f759aa0cb52c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/a8bfcb8a31cd50d932f0a33c9872f759aa0cb52c",
+                    "reference": "a8bfcb8a31cd50d932f0a33c9872f759aa0cb52c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2025-12-12T17:47:47+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.7.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            },
+            "v1.8.0": {
+                "name": "gaming-platform/api",
+                "version": "v1.8.0",
+                "version_normalized": "1.8.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "fca26b34d7e878087508eb5145062a51d118f243"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/fca26b34d7e878087508eb5145062a51d118f243",
+                    "reference": "fca26b34d7e878087508eb5145062a51d118f243",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2025-12-20T23:55:46+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.8.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            },
+            "v1.9.0": {
+                "name": "gaming-platform/api",
+                "version": "v1.9.0",
+                "version_normalized": "1.9.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "1956d082e12f696f6c9443c461640d4969916191"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/1956d082e12f696f6c9443c461640d4969916191",
+                    "reference": "1956d082e12f696f6c9443c461640d4969916191",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2025-12-23T12:50:08+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.9.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            },
+            "dev-main": {
+                "name": "gaming-platform/api",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gaming-platform/api.git",
+                    "reference": "1956d082e12f696f6c9443c461640d4969916191"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gaming-platform/api/zipball/1956d082e12f696f6c9443c461640d4969916191",
+                    "reference": "1956d082e12f696f6c9443c461640d4969916191",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-protobuf": "*",
+                    "php": "^8.3"
+                },
+                "time": "2025-12-23T12:50:08+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "GamingPlatform\\Api\\": "php/GamingPlatform/Api/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Markus Reinhold",
+                        "email": "markusreinhold@icloud.com"
+                    }
+                ],
+                "description": "API definitions for the platform with generated code in various languages.",
+                "support": {
+                    "source": "https://github.com/gaming-platform/api/tree/v1.9.0",
+                    "issues": "https://github.com/gaming-platform/api/issues"
+                }
+            }
+        }
+    }
+}
